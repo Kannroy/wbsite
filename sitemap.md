@@ -15,7 +15,6 @@
 | http://shige.kannroy.me/2019/06/23/jiazhanyi/        | 文章  |   （1）架站踩坑文 （2）从属分类：云端架站   |
 | http://shige.kannroy.me/2019/06/23/jiazhaner/        | 文章  |   （1）架站踩坑文 （2）从属分类：云端架站   |
 | http://shige.kannroy.me/2019/06/23/jiazhansan/        | 文章  |   （1）架站踩坑文 （2）从属分类：云端架站   |
-| http://shige.kannroy.me/category/%e7%ad%96%e5%88%92/%e4%ba%91%e7%ab%af%e6%9e%b6%e7%ab%99/        | 分类目录  |   （1）分类目录：云端架站（2）父级分类：策划    |
 |http://shige.kannroy.me/category/%e7%89%88%e6%9d%83%e4%ba%a4%e4%bb%a3/  | 分类目录  |   分类目录：版权交代    |
 | http://shige.kannroy.me/category/%e7%ad%96%e5%88%92/ | 分类目录  |   分类目录：策划    |
 | http://shige.kannroy.me/category/%e8%af%97%e6%ad%8c%e9%9b%86/ | 分类目录  |   分类目录：诗歌集    |
