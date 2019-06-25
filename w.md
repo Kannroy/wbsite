@@ -60,8 +60,7 @@ Github链接：https://github.com/Kannroy/website_operation/blob/master/sitemap.
 ### 云端网站管理
 - 云端架站
 
-网站链接：
-shige.kannroy.me
+网站链接：http://shige.kannroy.me/
 
 - 网站安全
 
