@@ -82,7 +82,7 @@ Github链接：https://github.com/Kannroy/website_operation/blob/master/sitemap.
 - 云端架站
 
 网站链接：
-shige.kannroy.me
+http://shige.kannroy.me/
 
 - 网站安全
 
@@ -180,7 +180,7 @@ shige.kannroy.me
 探讨网站的首页排版方式，目前设计出了一种以文字为主体的页面排版，针对这种排版方式给出意见。
 
 ######  旧版本
-<img src='http://kan.027cgb.com/623808/旧版本.png'/>
+<img src="http://kan.027cgb.com/623808/旧版本.png" />
 
 ##### 访谈范围：
 六人进行小组讨论，访谈的问题主要围绕首页排版存在的问题，并如何加以改进。
